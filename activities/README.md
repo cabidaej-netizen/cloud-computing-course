@@ -1,1 +1,1 @@
-activities/README.md
+ # Activities

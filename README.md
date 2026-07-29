@@ -11,14 +11,14 @@ This repository serves as my organized workspace for all course requirements, in
 - Mini-projects
 - Reflection papers
 
-## 👤 Student Information
+👤 Student Information
 
-- **Name:** Ej Cabida
-- **Course/Section:** BSIT [Your Section]
-- **Instructor:** [Instructor's Name]
+- Name: [CABIDA, EXCEL JOHN T.]
+- Course/Section: [BSIT 4G]
+- Instructor: [Ma’am Jenkielyn Cortez Torres]
 - **School Year:** 2026–2027
 
-## 📂 Repository Structure
+📂 Repository Structure
 
 ```text
 cloud-computing-course/
@@ -29,7 +29,7 @@ cloud-computing-course/
 └── README.md
 ```
 
-## 📖 Key Concepts Covered
+📖 Key Concepts Covered
 
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
